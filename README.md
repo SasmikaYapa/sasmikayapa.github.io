@@ -65,7 +65,7 @@ Intelligent job matching platform connecting students with short-term and freela
 
 ## 🌐 Live Portfolio
 
-👉 [View Portfolio](https://sithumyapa.github.io/)
+👉 [View Portfolio](https://sasmikayapa.github.io/)
 
 ---
 
